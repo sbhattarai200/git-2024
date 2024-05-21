@@ -1,1 +1,7 @@
 Hi I am Sudhir
+//list of branches
+git branch -a
+//creating new branch
+git branch login
+//switch to a branch
+git checkout login
